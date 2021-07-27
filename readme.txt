@@ -1,6 +1,13 @@
-﻿
+﻿https://medium.com/@majdasab/integrating-an-angular-project-with-spring-boot-e3a043b7307b
 
 http://www.ciceroednilson.com.br/desenvolvendo-uma-aplicacao-web-com-angular-4-e-spring-boot-parte-6-criando-o-crud/
+
+
+
+
+*****
+* ANGULAR.JSON
+//            "outputPath": "dist/phAngularProntuario", 
 
 
 > MYSQL

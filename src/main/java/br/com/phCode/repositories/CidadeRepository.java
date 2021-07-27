@@ -11,7 +11,7 @@ import org.springframework.transaction.annotation.Transactional;
 import br.com.phCode.models.Cidade;
 
 @Repository
-public interface CidadeRepository  extends JpaRepository<Cidade, Integer> {
+public interface CidadeRepository extends JpaRepository<Cidade, Integer> {
 
 	@Transactional(readOnly=true)
 	@Query("SELECT obj FROM Cidade obj WHERE obj.estado.id = :estadoId ORDER BY obj.nome")
